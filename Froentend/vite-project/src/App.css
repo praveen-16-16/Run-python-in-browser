@@ -1,0 +1,37 @@
+/* Center the content */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  padding-top: 30px;
+}
+
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+ 
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+pre {
+  margin-top: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  max-width: 80%;
+  white-space: pre-wrap; 
+  word-break: break-word;
+  text-align: left;
+}
