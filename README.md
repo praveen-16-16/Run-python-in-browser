@@ -42,6 +42,10 @@ cd frontend
 
 cd vite-project
 
+Install dependencies:
+
+npm install
+
 Start the frontend:
 
 npm run dev
